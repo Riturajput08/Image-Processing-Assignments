@@ -1,0 +1,12 @@
+##Practical 1: print image on OpenCV
+import cv2
+
+cap = cv2.VideoCapture(0)
+
+ret, frame = cap.read()
+
+if ret:
+    cv2.imwrite("captured_image.jpg", frame)
+    print("Image Saved")
+
+cap.release()
