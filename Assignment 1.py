@@ -1,12 +1,3 @@
-"""
-Name: Ayush Gupta
-Roll No: [Your Roll Number]
-Course: Image Processing & Computer Vision
-Unit: 1
-Assignment Title: Designing a Smart Document Scanner using Python
-Date: April 26, 2026
-"""
-
 import cv2
 import numpy as np
 import os
