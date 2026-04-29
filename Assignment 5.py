@@ -1,11 +1,3 @@
-"""
-Name: Ayush Gupta
-Roll No: [Your Roll Number]
-Course: Image Processing & Computer Vision
-Assignment Title: Designing an End-to-End Intelligent Image Processing System
-Date: April 26, 2026
-"""
-
 import cv2
 import numpy as np
 import os
